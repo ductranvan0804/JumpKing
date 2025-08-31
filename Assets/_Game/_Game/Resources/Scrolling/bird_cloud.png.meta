@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 243c2e5a0c465be48963b0ee54cf988f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5554534607957199199
+    second: bird_cloud_0
+  - first:
+      213: 6194152384016748080
+    second: bird_cloud_1
+  - first:
+      213: -6523643859656551068
+    second: bird_cloud_2
+  - first:
+      213: 2716531006492460195
+    second: bird_cloud_3
+  - first:
+      213: -667564388494149345
+    second: bird_cloud_4
+  - first:
+      213: -8427409385843112082
+    second: bird_cloud_5
+  - first:
+      213: -364742515041625180
+    second: bird_cloud_6
+  - first:
+      213: -7715691048266581040
+    second: bird_cloud_7
+  - first:
+      213: -3566734201509160318
+    second: bird_cloud_8
+  - first:
+      213: 8679639114393607002
+    second: bird_cloud_9
+  - first:
+      213: -3566684099756741127
+    second: bird_cloud_10
+  - first:
+      213: -8446913013955718097
+    second: bird_cloud_11
+  - first:
+      213: 1915694466634001374
+    second: bird_cloud_12
+  - first:
+      213: 3549987140725147765
+    second: bird_cloud_13
+  - first:
+      213: 1889107893820849919
+    second: bird_cloud_14
+  - first:
+      213: 2895199417348781352
+    second: bird_cloud_15
+  - first:
+      213: 178420326245532858
+    second: bird_cloud_16
+  - first:
+      213: -2327771534455702793
+    second: bird_cloud_17
+  - first:
+      213: -4710236407261671282
+    second: bird_cloud_18
+  - first:
+      213: 836137516392506473
+    second: bird_cloud_19
+  - first:
+      213: 5420878648874429134
+    second: bird_cloud_20
+  - first:
+      213: 979122996298451904
+    second: bird_cloud_21
+  - first:
+      213: 4211059408129220296
+    second: bird_cloud_22
+  - first:
+      213: -8489453861176438560
+    second: bird_cloud_23
+  - first:
+      213: -2088540310549388891
+    second: bird_cloud_24
+  - first:
+      213: 3115761315142330558
+    second: bird_cloud_25
+  - first:
+      213: -7179321756115561252
+    second: bird_cloud_26
+  - first:
+      213: -8789511007267116117
+    second: bird_cloud_27
+  - first:
+      213: 8644450807080808317
+    second: bird_cloud_28
+  - first:
+      213: 5148577829612563779
+    second: bird_cloud_29
+  - first:
+      213: -8256191771011849490
+    second: bird_cloud_30
+  - first:
+      213: 9190621868774476461
+    second: bird_cloud_31
+  - first:
+      213: 1757720479662111086
+    second: bird_cloud_32
+  - first:
+      213: 1495965998884642374
+    second: bird_cloud_33
+  - first:
+      213: 6483421550226724554
+    second: bird_cloud_34
+  - first:
+      213: -2318547953773443890
+    second: bird_cloud_35
+  - first:
+      213: -6093893722542452174
+    second: bird_cloud_36
+  - first:
+      213: -5520711324563557173
+    second: bird_cloud_37
+  - first:
+      213: 4929184602640304266
+    second: bird_cloud_38
+  - first:
+      213: -7597810717713446628
+    second: bird_cloud_39
+  - first:
+      213: 2548147764955466006
+    second: bird_cloud_40
+  - first:
+      213: -5709563581767004800
+    second: bird_cloud_41
+  - first:
+      213: -5533325942526673865
+    second: bird_cloud_42
+  - first:
+      213: 998565491636474091
+    second: bird_cloud_43
+  - first:
+      213: 7682846387849474907
+    second: bird_cloud_44
+  - first:
+      213: 3843533530178915220
+    second: bird_cloud_45
+  - first:
+      213: 6486096528768885606
+    second: bird_cloud_46
+  - first:
+      213: -1079989326378343216
+    second: bird_cloud_47
+  - first:
+      213: 3246822637159558413
+    second: bird_cloud_48
+  - first:
+      213: -332426620624670713
+    second: bird_cloud_49
+  - first:
+      213: 4964601961492346854
+    second: bird_cloud_50
+  - first:
+      213: -4350863632906590385
+    second: bird_cloud_51
+  - first:
+      213: 1586542265149124835
+    second: bird_cloud_52
+  - first:
+      213: -9179845549116509670
+    second: bird_cloud_53
+  - first:
+      213: -358074483255549424
+    second: bird_cloud_54
+  - first:
+      213: -2385766519105099461
+    second: bird_cloud_55
+  - first:
+      213: 1083194182217960495
+    second: bird_cloud_56
+  - first:
+      213: 1382953584760967301
+    second: bird_cloud_57
+  - first:
+      213: -4063411055411375601
+    second: bird_cloud_58
+  - first:
+      213: -7007047268140173877
+    second: bird_cloud_59
+  - first:
+      213: 4475198087113568975
+    second: bird_cloud_60
+  - first:
+      213: -8257991131804368802
+    second: bird_cloud_61
+  - first:
+      213: -5592819889909071642
+    second: bird_cloud_62
+  - first:
+      213: -2942739490008968709
+    second: bird_cloud_63
+  - first:
+      213: 371610254660904903
+    second: bird_cloud_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird_cloud_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6f81804345ae2b0800000000000000
+      internalID: -5554534607957199199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 337
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e05f576cc06f550800000000000000
+      internalID: 6194152384016748080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 313
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4655300397c5775a0800000000000000
+      internalID: -6523643859656551068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 311
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4415fbe8e03b520800000000000000
+      internalID: 2716531006492460195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 302
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fa1fb9b55cb6f0800000000000000
+      internalID: -667564388494149345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67470c50d3db0b80800000000000000
+      internalID: -8427409385843112082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 318
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab16747d9c20faf0800000000000000
+      internalID: -364742515041625180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 312
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb86ffedb5ce490800000000000000
+      internalID: -7715691048266581040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a5fce142a608ec0800000000000000
+      internalID: -3566734201509160318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b5400b9c5447870800000000000000
+      internalID: 8679639114393607002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd27f755b7908ec0800000000000000
+      internalID: -3566684099756741127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 252
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f249b821e5986ca80800000000000000
+      internalID: -8446913013955718097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 260
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba6e5b7f9e59a10800000000000000
+      internalID: 1915694466634001374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 249
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788020fe76144130800000000000000
+      internalID: 3549987140725147765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef399de95773a10800000000000000
+      internalID: 1889107893820849919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825fdf8d780dd2820800000000000000
+      internalID: 2895199417348781352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 241
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab403966750e97200800000000000000
+      internalID: 178420326245532858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 248
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa708a5f1812bfd0800000000000000
+      internalID: -2327771534455702793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e805e0981f0e1aeb0800000000000000
+      internalID: -4710236407261671282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 209
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964e3ff14ae8a9b00800000000000000
+      internalID: 836137516392506473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae8acf864da3b40800000000000000
+      internalID: 5420878648874429134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb09c17d2b869d00800000000000000
+      internalID: 979122996298451904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cedb957830b07a30800000000000000
+      internalID: 4211059408129220296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0928b31b66f2a80800000000000000
+      internalID: -8489453861176438560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 215
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ae9237a30403e0800000000000000
+      internalID: -2088540310549388891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 221
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb866f978686d3b20800000000000000
+      internalID: 3115761315142330558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd49f7686eced5c90800000000000000
+      internalID: -7179321756115561252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 245
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2576ce42650680800000000000000
+      internalID: -8789511007267116117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 224
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe362753247f770800000000000000
+      internalID: 8644450807080808317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 232
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2288f14c637740800000000000000
+      internalID: 5148577829612563779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e553d35d1c6d80800000000000000
+      internalID: -8256191771011849490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa4d3945e5ab8f70800000000000000
+      internalID: 9190621868774476461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6970b4a67da46810800000000000000
+      internalID: 1757720479662111086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 132
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed497662db2c410800000000000000
+      internalID: 1495965998884642374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6506e9c8db9f950800000000000000
+      internalID: 6483421550226724554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 118
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec400a49becd2dfd0800000000000000
+      internalID: -2318547953773443890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232dfd832f32e6ba0800000000000000
+      internalID: -6093893722542452174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 132
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b9efdc4e7263b0800000000000000
+      internalID: -5520711324563557173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 116
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8843b8b74bf76440800000000000000
+      internalID: 4929184602640304266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c80c38672f8690800000000000000
+      internalID: -7597810717713446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619406d34e6dc5320800000000000000
+      internalID: 2548147764955466006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d45464c2e83c0b0800000000000000
+      internalID: -5709563581767004800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 23
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c7e314f5da533b0800000000000000
+      internalID: -5533325942526673865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be094f5260e9bdd00800000000000000
+      internalID: 998565491636474091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 65
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5339a39514fe9a60800000000000000
+      internalID: 7682846387849474907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b0e9cb169f65530800000000000000
+      internalID: 3843533530178915220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663e9289d6e330a50800000000000000
+      internalID: 6486096528768885606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d461000e6b1301f0800000000000000
+      internalID: -1079989326378343216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 58
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da7907cf70f0d20800000000000000
+      internalID: 3246822637159558413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70078c3ffbbf26bf0800000000000000
+      internalID: -332426620624670713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_50
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e775fd2e2fc5e440800000000000000
+      internalID: 4964601961492346854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 51
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ef66e390ae93c0800000000000000
+      internalID: -4350863632906590385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 41
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e07b57c8c7840610800000000000000
+      internalID: 1586542265149124835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b5f72c13aa9080800000000000000
+      internalID: -9179845549116509670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012eb66972dd70bf0800000000000000
+      internalID: -358074483255549424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_55
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3968bfbdfd04eed0800000000000000
+      internalID: -2385766519105099461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0fd5ae57480f00800000000000000
+      internalID: 1083194182217960495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d78845fc313310800000000000000
+      internalID: 1382953584760967301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025fc98c2ddb97c0800000000000000
+      internalID: -4063411055411375601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5322272a7f1ce90800000000000000
+      internalID: -7007047268140173877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_60
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 24
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc279e913f81b1e30800000000000000
+      internalID: 4475198087113568975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50897e71d8b56d80800000000000000
+      internalID: -8257991131804368802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00b3131ff4262b0800000000000000
+      internalID: -5592819889909071642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1508f660a4927d0800000000000000
+      internalID: -2942739490008968709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_cloud_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 23
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a4f7ce89382500800000000000000
+      internalID: 371610254660904903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bird_cloud_0: -5554534607957199199
+      bird_cloud_1: 6194152384016748080
+      bird_cloud_10: -3566684099756741127
+      bird_cloud_11: -8446913013955718097
+      bird_cloud_12: 1915694466634001374
+      bird_cloud_13: 3549987140725147765
+      bird_cloud_14: 1889107893820849919
+      bird_cloud_15: 2895199417348781352
+      bird_cloud_16: 178420326245532858
+      bird_cloud_17: -2327771534455702793
+      bird_cloud_18: -4710236407261671282
+      bird_cloud_19: 836137516392506473
+      bird_cloud_2: -6523643859656551068
+      bird_cloud_20: 5420878648874429134
+      bird_cloud_21: 979122996298451904
+      bird_cloud_22: 4211059408129220296
+      bird_cloud_23: -8489453861176438560
+      bird_cloud_24: -2088540310549388891
+      bird_cloud_25: 3115761315142330558
+      bird_cloud_26: -7179321756115561252
+      bird_cloud_27: -8789511007267116117
+      bird_cloud_28: 8644450807080808317
+      bird_cloud_29: 5148577829612563779
+      bird_cloud_3: 2716531006492460195
+      bird_cloud_30: -8256191771011849490
+      bird_cloud_31: 9190621868774476461
+      bird_cloud_32: 1757720479662111086
+      bird_cloud_33: 1495965998884642374
+      bird_cloud_34: 6483421550226724554
+      bird_cloud_35: -2318547953773443890
+      bird_cloud_36: -6093893722542452174
+      bird_cloud_37: -5520711324563557173
+      bird_cloud_38: 4929184602640304266
+      bird_cloud_39: -7597810717713446628
+      bird_cloud_4: -667564388494149345
+      bird_cloud_40: 2548147764955466006
+      bird_cloud_41: -5709563581767004800
+      bird_cloud_42: -5533325942526673865
+      bird_cloud_43: 998565491636474091
+      bird_cloud_44: 7682846387849474907
+      bird_cloud_45: 3843533530178915220
+      bird_cloud_46: 6486096528768885606
+      bird_cloud_47: -1079989326378343216
+      bird_cloud_48: 3246822637159558413
+      bird_cloud_49: -332426620624670713
+      bird_cloud_5: -8427409385843112082
+      bird_cloud_50: 4964601961492346854
+      bird_cloud_51: -4350863632906590385
+      bird_cloud_52: 1586542265149124835
+      bird_cloud_53: -9179845549116509670
+      bird_cloud_54: -358074483255549424
+      bird_cloud_55: -2385766519105099461
+      bird_cloud_56: 1083194182217960495
+      bird_cloud_57: 1382953584760967301
+      bird_cloud_58: -4063411055411375601
+      bird_cloud_59: -7007047268140173877
+      bird_cloud_6: -364742515041625180
+      bird_cloud_60: 4475198087113568975
+      bird_cloud_61: -8257991131804368802
+      bird_cloud_62: -5592819889909071642
+      bird_cloud_63: -2942739490008968709
+      bird_cloud_64: 371610254660904903
+      bird_cloud_7: -7715691048266581040
+      bird_cloud_8: -3566734201509160318
+      bird_cloud_9: 8679639114393607002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

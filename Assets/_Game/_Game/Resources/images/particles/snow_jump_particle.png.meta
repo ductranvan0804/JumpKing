@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 3440c498d3eb6244a8110addf13d8910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5822669675978477233
+    second: snow_jump_particle_0
+  - first:
+      213: -7354398078518125501
+    second: snow_jump_particle_1
+  - first:
+      213: -3131110421806939271
+    second: snow_jump_particle_2
+  - first:
+      213: -2754655520812855682
+    second: snow_jump_particle_3
+  - first:
+      213: 5653112946591765272
+    second: snow_jump_particle_4
+  - first:
+      213: -8485419700851794969
+    second: snow_jump_particle_5
+  - first:
+      213: 9083674766126087851
+    second: snow_jump_particle_6
+  - first:
+      213: 4925350239932349815
+    second: snow_jump_particle_7
+  - first:
+      213: 8171117492722527614
+    second: snow_jump_particle_8
+  - first:
+      213: -5368884068018325570
+    second: snow_jump_particle_9
+  - first:
+      213: -4516624641109568547
+    second: snow_jump_particle_10
+  - first:
+      213: 2750655732583727306
+    second: snow_jump_particle_11
+  - first:
+      213: 1501823334824843944
+    second: snow_jump_particle_12
+  - first:
+      213: -8197359815563715269
+    second: snow_jump_particle_13
+  - first:
+      213: 5318229783952713404
+    second: snow_jump_particle_14
+  - first:
+      213: 1223858161075445014
+    second: snow_jump_particle_15
+  - first:
+      213: -2349067310451292566
+    second: snow_jump_particle_16
+  - first:
+      213: 819651660458578805
+    second: snow_jump_particle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow_jump_particle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec22178374ec050800000000000000
+      internalID: 5822669675978477233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 82
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9c11b9edefe990800000000000000
+      internalID: -7354398078518125501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 83
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738ca329af0c84d0800000000000000
+      internalID: -3131110421806939271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e816b066f75c9d0800000000000000
+      internalID: -2754655520812855682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 84
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81393c00644e37e40800000000000000
+      internalID: 5653112946591765272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb90a06dbbbd3a80800000000000000
+      internalID: -8485419700851794969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeff1a8212bf0e70800000000000000
+      internalID: 9083674766126087851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7d8592fb5a5440800000000000000
+      internalID: 4925350239932349815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de4b33114a56170800000000000000
+      internalID: 8171117492722527614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7738db264ed75b0800000000000000
+      internalID: -5368884068018325570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd353eaa1d9b151c0800000000000000
+      internalID: -4516624641109568547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 42
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac08b00b0da4c2620800000000000000
+      internalID: 2750655732583727306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 42
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa90a3bd5c87d410800000000000000
+      internalID: 1501823334824843944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 42
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d5341eda02d3e80800000000000000
+      internalID: -8197359815563715269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb66762bfc52ec940800000000000000
+      internalID: 5318229783952713404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5d5263840cf010800000000000000
+      internalID: 1223858161075445014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66811f1abf666fd0800000000000000
+      internalID: -2349067310451292566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_jump_particle_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573513da7dcff5b00800000000000000
+      internalID: 819651660458578805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snow_jump_particle_0: 5822669675978477233
+      snow_jump_particle_1: -7354398078518125501
+      snow_jump_particle_10: -4516624641109568547
+      snow_jump_particle_11: 2750655732583727306
+      snow_jump_particle_12: 1501823334824843944
+      snow_jump_particle_13: -8197359815563715269
+      snow_jump_particle_14: 5318229783952713404
+      snow_jump_particle_15: 1223858161075445014
+      snow_jump_particle_16: -2349067310451292566
+      snow_jump_particle_17: 819651660458578805
+      snow_jump_particle_2: -3131110421806939271
+      snow_jump_particle_3: -2754655520812855682
+      snow_jump_particle_4: 5653112946591765272
+      snow_jump_particle_5: -8485419700851794969
+      snow_jump_particle_6: 9083674766126087851
+      snow_jump_particle_7: 4925350239932349815
+      snow_jump_particle_8: 8171117492722527614
+      snow_jump_particle_9: -5368884068018325570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

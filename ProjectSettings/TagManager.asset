@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Rock
+  - Ice
+  - Princess
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1459842253
+    locked: 0
+  - name: Object
+    uniqueID: 2962097203
+    locked: 0
+  - name: Foreground
+    uniqueID: 3663501317
+    locked: 0
+  - name: FG
+    uniqueID: 2248783509
+    locked: 0
+  - name: Effects
+    uniqueID: 1004782953
+    locked: 0
+  - name: Player
+    uniqueID: 4162322627
+    locked: 0
+  m_RenderingLayers:
+  - Default
